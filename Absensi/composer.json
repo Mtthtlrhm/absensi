@@ -1,0 +1,10 @@
+{
+    "name": "mutti/proyek-absensi-native",
+    "description": "Aplikasi Absensi dengan PHP Native.",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    },
+    "require": {}
+}
